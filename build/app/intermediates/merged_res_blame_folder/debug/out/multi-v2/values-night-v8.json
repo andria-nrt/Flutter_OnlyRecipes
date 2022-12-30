@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Projects\\onlyRecipes\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Andria\\Documents\\GitHub\\Flutter_OnlyRecipes\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Projects\\onlyRecipes\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Andria\\Documents\\GitHub\\Flutter_OnlyRecipes\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
